@@ -1,0 +1,22 @@
+{
+  "name": "pw-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "typecheck": "tsc --noEmit",
+    "seed": " "
+  }
+  ,
+
+  "keywords": [],
+  "author": "projektets namn eller utvecklarens här ?",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  }
+}
